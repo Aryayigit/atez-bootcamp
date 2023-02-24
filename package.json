@@ -1,0 +1,19 @@
+{
+  "name": "atez-bootcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryayigit/atez-bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aryayigit/atez-bootcamp/issues"
+  },
+  "homepage": "https://github.com/Aryayigit/atez-bootcamp#readme",
+  "description": ""
+}
